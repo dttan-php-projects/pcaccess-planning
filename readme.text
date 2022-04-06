@@ -1,0 +1,4 @@
+Lưu ý khi cập nhật máy mới (Digital)
+- Cập nhật tại file: ProductionRecord.php
+- Cập nhật trong file: Event.php
+- Các máy hiện tại: $digitalMachineArr = array( 'INDIGO', 'C800P', 'G-U', 'C1000i', 'NON G-U', 'KM1', '1', '4', '5', '6', '2,3,7', 'ALL' )

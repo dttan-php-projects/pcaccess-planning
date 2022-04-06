@@ -1,0 +1,30 @@
+@media print {
+    @page {
+        /* định dạng trang ngang */
+        size: A4;
+        /* width: 279.4mm;
+            height: 215.9mm; */
+        margin: 10mm;
+        padding: 0mm;
+    }
+    body {
+        zoom: 100%;
+        /* background-color: #fafafa; */
+        font: 10pt;
+        font-family: Arial, Helvetica, sans-serif;
+        /*sans-serif*/
+    }
+    html {
+        font-family: "Source Sans Pro", "Helvetica Neue", Helvetica;
+    }
+}
+
+.header {
+    /* title */
+    background-color: #59f78d;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
